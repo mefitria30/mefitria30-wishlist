@@ -2,5 +2,5 @@ My wishlist:
 - Learn React
 - Learn Golang
 - Learn more about Javascript
-- Learn about phyton
-- Learn about angular and vue?
+- Review about Codeigniter and Laravel again
+- Review about ruby again?
