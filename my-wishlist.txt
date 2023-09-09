@@ -1,3 +1,4 @@
 My wishlist:
 - Learn React
 - Learn Golang
+- Learn more about Javascript
