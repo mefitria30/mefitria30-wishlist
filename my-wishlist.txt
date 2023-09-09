@@ -2,3 +2,4 @@ My wishlist:
 - Learn React
 - Learn Golang
 - Learn more about Javascript
+- Review about Codeigniter and Laravel again
